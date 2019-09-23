@@ -1,0 +1,9 @@
+/Users/nk.vlsv/Downloads/Rectangles.csproj/obj/Debug/Rectangles.csprojAssemblyReference.cache
+/Users/nk.vlsv/Downloads/Rectangles.csproj/obj/Debug/Rectangles.csproj.CoreCompileInputs.cache
+/Users/nk.vlsv/Downloads/Rectangles.csproj/bin/Debug/Rectangles.exe.config
+/Users/nk.vlsv/Downloads/Rectangles.csproj/bin/Debug/Rectangles.exe
+/Users/nk.vlsv/Downloads/Rectangles.csproj/bin/Debug/Rectangles.pdb
+/Users/nk.vlsv/Downloads/Rectangles.csproj/bin/Debug/TestingRoom.dll
+/Users/nk.vlsv/Downloads/Rectangles.csproj/obj/Debug/Rectangles.csproj.CopyComplete
+/Users/nk.vlsv/Downloads/Rectangles.csproj/obj/Debug/Rectangles.exe
+/Users/nk.vlsv/Downloads/Rectangles.csproj/obj/Debug/Rectangles.pdb
